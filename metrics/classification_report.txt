@@ -1,0 +1,29 @@
+=== GLOBAL METRICS ===
+Top-1 Accuracy : 0.8987
+Top-5 Accuracy : 0.9949
+Macro F1       : 0.8986
+Weighted F1    : 0.8977
+Balanced Acc   : 0.9028
+
+=== CLASSIFICATION REPORT ===
+               precision    recall  f1-score   support
+
+   Ayam Bakar     0.8333    0.9615    0.8929        26
+  Ayam Betutu     0.8214    0.8519    0.8364        27
+  Ayam Goreng     0.9130    0.7241    0.8077        29
+     Ayam Pop     0.9500    0.9048    0.9268        21
+        Bakso     0.9118    0.9394    0.9254        33
+Coto Makassar     0.8519    0.7931    0.8214        29
+    Gado Gado     1.0000    1.0000    1.0000        25
+        Gudeg     0.8148    1.0000    0.8980        22
+  Nasi Goreng     1.0000    1.0000    1.0000        29
+       Pempek     1.0000    0.9565    0.9778        23
+        Rawon     0.8333    1.0000    0.9091        30
+      Rendang     1.0000    0.7500    0.8571        24
+  Sate Madura     1.0000    0.7812    0.8772        32
+  Sate Padang     0.7692    1.0000    0.8696        20
+         Soto     0.8800    0.8800    0.8800        25
+
+     accuracy                         0.8987       395
+    macro avg     0.9053    0.9028    0.8986       395
+ weighted avg     0.9073    0.8987    0.8977       395
